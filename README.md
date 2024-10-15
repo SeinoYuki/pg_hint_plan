@@ -1,3 +1,4 @@
+test
 # pg\_hint\_plan 1.8
 
 `pg_hint_plan` makes it possible to tweak PostgreSQL execution plans using
